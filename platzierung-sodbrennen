@@ -1,0 +1,13 @@
+<div class="InSn-Block">
+  <div class="InSn-media-wrapper">
+    <img class="InSn-img" src="#" alt="Mein Produkttipp">
+  </div>
+  <div class="InSn-content-wrapper">
+    <p class="InSn-snip">Mein Tipp bei Sodbrennen:</p>
+    <p class="InSn-Headline">Gingerin Phytholistic® Kapseln in Bio-Qualität!</p>
+    <p class="InSn-Content">Extrakt aus schonend getrocknetem Ingwer – mit vielen weiteren Pflanzenstoffe der Knolle!</p>
+    <div id="werbebutton">
+      <a title="Victorinox 7.6075 Universalschäler" target="_blank" href="http://amzn.to/2yhU7VC">&#10132;Zum Produkt bei Amazon</a>
+    </div>
+  </div>
+</div>
