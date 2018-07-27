@@ -3,8 +3,11 @@
     <img class="InSn-img" src="#" alt="Mein Produkttipp">
   </div>
   <div class="InSn-content-wrapper">
-  <p class="InSn-snip">Mein Produkttipp:</p>
-  <p class="InSn-Headline">Kurkuma-Kapseln - Eine sinnvolle Ergänzung zu Ingwer-Kapseln</p>
-  <p class="InSn-Content">Kurkuma und Ingwer haben viele Gemeinsamkeiten, nicht nur ihr Aussehen: Beide Wurzeln finden seit Jahrhunderten Anwendung als Naturheilmittel. Kurkuma hat - wie man heute weiß - eine starke anti-entzündliche Wirkung, unterstützt das Gehirn und kann sogar in der Krebs-Therapie unterstützen.</p>
+    <p class="InSn-snip">Mein Produkttipp:</p>
+    <p class="InSn-Headline">Kurkuma-Kapseln - Eine sinnvolle Ergänzung zu Ingwer-Kapseln</p>
+    <p class="InSn-Content">Kurkuma und Ingwer haben viele Gemeinsamkeiten, nicht nur ihr Aussehen: Beide Wurzeln finden seit Jahrhunderten Anwendung als Naturheilmittel. Kurkuma hat - wie man heute weiß - eine starke anti-entzündliche Wirkung, unterstützt das Gehirn und kann sogar in der Krebs-Therapie unterstützen.</p>
+    <div id="werbebutton">
+      <a title="Victorinox 7.6075 Universalschäler" target="_blank" href="http://amzn.to/2yhU7VC">&#10132;Zu Amazon.de</a>
+    </div>
   </div>
 </div>
