@@ -7,7 +7,43 @@
     <p class="InSn-Headline">Bio-Ingwer Kapseln von Phytholistic!</p>
     <p class="InSn-Content">Besonders alte Ingwersorten als Rohstoff aus nachhaltig biologischem Anbau.</p>
     <div id="werbebutton">
-      <a title="Victorinox 7.6075 Universalschäler" target="_blank" href="http://amzn.to/2yhU7VC">&#10132;Zu Amazon.de</a>
+      <a title="Victorinox 7.6075 Universalschäler" target="_blank" href="http://amzn.to/2yhU7VC">&#10132;Zum Produkt bei Amazon</a>
     </div>
+  </div>
+</div>
+
+
+<div class="InSn-Block">
+  <div class="InSn-media-wrapper">
+    <img class="InSn-img" src="#" alt="Gingerin Phytholistic">
+  </div>
+  <div class="InSn-content-wrapper">
+    <p class="InSn-snip">Mein Lesetipp:</p>
+    <p class="InSn-Content">Die Buchempfehlung zum historischen Abriss und zur Anwendung von Ingwer in Medizin und natürlicher Heilkunde.</p>
+    <div id="werbebutton">
+      <a title="Victorinox 7.6075 Universalschäler" target="_blank" href="http://amzn.to/2yhU7VC">&#10132;Zum Produkt bei Amazon</a>
+    </div>
+  </div>
+</div>
+
+
+<div id="werbebanner">
+  <div id="werbeimgbg">
+    <a title="Ingwer Tee Kräutertee vom-Achterhof" href="http://amzn.to/2yg5Giu" target="_blank">
+      <img id="werbeimg" src="https://images-na.ssl-images-amazon.com/images/I/71LnQJf2MkL._SL1482_.jpg" alt="Ingwer Tee Kräutertee vom-Achterhof">
+    </a>
+  </div>
+  <div id="werbehl">
+    Meine Empfehlung
+  </div>
+  <div id="werbefacts">
+    Ingwer Bio-Tee von Achterhof!
+    Ohne Farbstoffzusatz, ohne Gentechnik & ohne Konservierungsstoffe.
+  </div>
+  <div id="werbebutton">
+    <a title="Ingwer Tee Kräutertee vom-Achterhof" target="_blank" href="http://amzn.to/2yg5Giu">&#10132;Zu Amazon.de</a>
+  </div>
+  <div id="werbeanzeige">
+    Anzeige
   </div>
 </div>
