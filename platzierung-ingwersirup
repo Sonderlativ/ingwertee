@@ -11,3 +11,24 @@
     </div>
   </div>
 </div>
+
+
+<div id="werbebanner">
+  <div id="werbeimgbg">
+    <a title="Ingwer Tee Kräutertee vom-Achterhof" href="http://amzn.to/2yg5Giu" target="_blank">
+      <img id="werbeimg" src="https://images-na.ssl-images-amazon.com/images/I/71LnQJf2MkL._SL1482_.jpg" alt="Ingwer Tee Kräutertee vom-Achterhof">
+    </a>
+  </div>
+  <div id="werbehl">
+    Mein Tipp für Faule!
+  </div>
+  <div id="werbefacts">
+    Ingwer-Sirup aus frischem Ingwer. Frei von Aromen, Farbstoffen & Geschmacksverstärker!
+  </div>
+  <div id="werbebutton">
+    <a title="Ingwer Tee Kräutertee vom-Achterhof" target="_blank" href="http://amzn.to/2yg5Giu">&#10132;Zum Produkt auf Amazon</a>
+  </div>
+  <div id="werbeanzeige">
+    Anzeige
+  </div>
+</div>
