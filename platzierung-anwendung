@@ -1,16 +1,20 @@
+/* ===== Eingebunden ===== */
+
 <div class="InSn-Block">
   <div class="InSn-media-wrapper">
-    <img class="InSn-img" src="#" alt="Mein Produkttipp">
+    <img class="InSn-img" src="/wp-content/uploads/2018/07/ingwertee-gingerin-bild-346x181.png" alt="Mein Produkttipp">
   </div>
   <div class="InSn-content-wrapper">
     <p class="InSn-snip">Mein Tipp bei Beschwerden:</p>
     <p class="InSn-Headline">Bio-Ingwer Kapseln von Phytholistic®!</p>
     <p class="InSn-Content">Die Kapseln versorgen das ganze Jahr über mit der ganzen Ingwer-Pflanze und stärken das Immunsystem!</p>
-    <div id="werbebutton">
-      <a title="Victorinox 7.6075 Universalschäler" target="_blank" href="http://amzn.to/2yhU7VC">&#10132;Zum Produkt bei Amazon</a>
-    </div>
+    <a title="Gingerin Phytholistic" target="_blank" href="https://amzn.to/2Amyh8h"><div id="werbebutton">
+      &#10132;Zum Produkt bei Amazon
+    </div></a>
   </div>
 </div>
+
+/* ===== ENDE ===== */
 
 
 <div id="werbebanner">
