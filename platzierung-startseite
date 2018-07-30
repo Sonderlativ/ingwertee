@@ -15,21 +15,23 @@
   </div>
 </div>
 
-/* ====== Eingebunden ENDE ======= */
+
 
 
 <div class="InSn-Block">
   <div class="InSn-media-wrapper">
-    <img class="InSn-img" src="#" alt="Gingerin Phytholistic">
+    <img class="InSn-img" src="/wp-content/uploads/2018/07/amazon-gesund-mit-ingwer-ellen-heidboehmer-goldmann-horizontal.png" alt="Gesund mit Ingwer">
   </div>
   <div class="InSn-content-wrapper">
     <p class="InSn-snip">Mein Lesetipp:</p>
     <p class="InSn-Content">Die Buchempfehlung zum historischen Abriss und zur Anwendung von Ingwer in Medizin und natürlicher Heilkunde.</p>
     <div id="werbebutton">
-      <a title="Victorinox 7.6075 Universalschäler" target="_blank" href="http://amzn.to/2yhU7VC">&#10132;Zum Produkt bei Amazon</a>
+      <a title="Gesund mit Ingwer" target="_blank" href="https://amzn.to/2Ampmn3">&#10132;Zum Produkt bei Amazon</a>
     </div>
   </div>
 </div>
+
+/* ====== Eingebunden ENDE ======= */
 
 
 <div id="werbebanner">
