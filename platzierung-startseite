@@ -1,3 +1,6 @@
+
+/* ====== Wird Eingebunden ======= */
+
 <div class="InSn-Block">
   <div class="InSn-media-wrapper">
     <img class="InSn-img" src="#" alt="Gingerin Phytholistic">
@@ -7,10 +10,12 @@
     <p class="InSn-Headline">Bio-Ingwer Kapseln von Phytholistic!</p>
     <p class="InSn-Content">Besonders alte Ingwersorten als Rohstoff aus nachhaltig biologischem Anbau.</p>
     <div id="werbebutton">
-      <a title="Victorinox 7.6075 Universalschäler" target="_blank" href="http://amzn.to/2yhU7VC">&#10132;Zum Produkt bei Amazon</a>
+      <a title="Gingerin Phytholistic" target="_blank" href="https://amzn.to/2Amyh8h">&#10132;Zum Produkt bei Amazon</a>
     </div>
   </div>
 </div>
+
+/* ====== Eingebunden ENDE ======= */
 
 
 <div class="InSn-Block">
