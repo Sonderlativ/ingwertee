@@ -16,8 +16,6 @@
 </div>
 
 
-
-
 <div class="InSn-Block">
   <div class="InSn-media-wrapper">
     <img class="InSn-img" src="/wp-content/uploads/2018/07/amazon-gesund-mit-ingwer-ellen-heidboehmer-goldmann-horizontal.png" alt="Gesund mit Ingwer">
@@ -31,13 +29,11 @@
   </div>
 </div>
 
-/* ====== Eingebunden ENDE ======= */
-
 
 <div id="werbebanner">
   <div id="werbeimgbg">
-    <a title="Ingwer Bio-Tee von Achterhof" href="https://www.amazon.de/Ingwerwurzel-Bio-Ingwer-geschnitten-vom-Achterhof/dp/B0757WC3TY/ref=sr_1_5?ie=UTF8&qid=1532506744&sr=8-5&keywords=ingwertee" target="_blank">
-      <img id="werbeimg" src="https://images-na.ssl-images-amazon.com/images/I/71LnQJf2MkL._SL1482_.jpg" alt="Ingwer Tee Kräutertee vom-Achterhof">
+    <a title="Ingwer Bio-Tee von Achterhof" href="https://amzn.to/2LKgfRF" target="_blank">
+      <img id="werbeimg" src="/wp-content/uploads/2018/07/amazon-bio-ingwer-wurzel-achterhof.png" alt="Ingwer Tee Kräutertee vom-Achterhof">
     </a>
   </div>
   <div id="werbehl">
@@ -48,9 +44,11 @@
     Ohne Farbstoffzusatz, ohne Gentechnik & ohne Konservierungsstoffe.
   </div>
   <div id="werbebutton">
-    <a title="Ingwer Bio-Tee von Achterhof" target="_blank" href="https://www.amazon.de/Ingwerwurzel-Bio-Ingwer-geschnitten-vom-Achterhof/dp/B0757WC3TY/ref=sr_1_5?ie=UTF8&qid=1532506744&sr=8-5&keywords=ingwertee">&#10132;Zu Amazon.de</a>
+    <a title="Ingwer Bio-Tee von Achterhof" target="_blank" href="https://amzn.to/2LKgfRF">&#10132;Zu Amazon.de</a>
   </div>
   <div id="werbeanzeige">
     Anzeige
   </div>
 </div>
+
+/* ====== Eingebunden ENDE ======= */
