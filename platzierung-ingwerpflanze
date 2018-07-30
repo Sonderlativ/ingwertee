@@ -1,16 +1,20 @@
+/* ======== Eingebunden ======== */
+
 <div class="InSn-Block">
   <div class="InSn-media-wrapper">
-    <img class="InSn-img" src="#" alt="Mein Produkttipp">
+    <img class="InSn-img" src="/wp-content/uploads/2018/07/ingwertee-kombi-bild.png" alt="Mein Produkttipp">
   </div>
   <div class="InSn-content-wrapper">
     <p class="InSn-snip">Mein Tipp für Curcuma & Ingwer</p>
     <p class="InSn-Headline">Acurmin Phytholistic® & Gingerin Phytholistic®</p>
     <p class="InSn-Content">Zwei starke Wurzeln aus der Familie der Ingwergewächse - in Bio-Qualität!</p>
     <div id="werbebutton">
-      <a title="Victorinox 7.6075 Universalschäler" target="_blank" href="http://amzn.to/2yhU7VC">&#10132;Zum Produkt bei Amazon</a>
+      <a title="Gingerin Phytholistic" target="_blank" href="https://amzn.to/2Amyh8h">&#10132;Zum Produkt bei Amazon</a>
     </div>
   </div>
 </div>
+
+/* ======= ENDE ======== */
 
 
 <div id="werbebanner">
