@@ -1,3 +1,5 @@
+/* ===== Eingebunden ===== */
+
 <div class="InSn-Block">
   <div class="InSn-media-wrapper">
     <img class="InSn-img" src="#" alt="Mein Produkttipp">
@@ -6,8 +8,8 @@
     <p class="InSn-snip">Mein Tipp zusätzlich zum Ingwertee:</p>
     <p class="InSn-Headline">Gingerin Phytholistic® Kapseln in Bio-Qualität!</p>
     <p class="InSn-Content">Aus schonend getrocknetem Bio-Ingwer aus besonders alten Ingwersorten mit vielen Scharfstoffen!</p>
-    <div id="werbebutton">
-      <a title="Victorinox 7.6075 Universalschäler" target="_blank" href="http://amzn.to/2yhU7VC">&#10132;Zum Produkt bei Amazon</a>
-    </div>
+    <a title="Gingerin Phytholistic" target="_blank" href="https://amzn.to/2Amyh8h"><div id="werbebutton">
+      &#10132;Zum Produkt bei Amazon
+    </div></a>
   </div>
 </div>
