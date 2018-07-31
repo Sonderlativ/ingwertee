@@ -1,7 +1,9 @@
+/* == Eingebunden == */
+
 <div id="werbebanner">
   <div id="werbeimgbg">
-    <a title="Kandierter Ingwer" href="https://www.amazon.de/Endo-Ingwer-eingelegt-Pack-Packung/dp/B004L5BQ12/ref=sr_1_5?s=grocery&ie=UTF8&qid=1532674649&sr=1-5&keywords=eingelegter+Ingwer" target="_blank">
-      <img id="werbeimg" src="https://images-na.ssl-images-amazon.com/images/I/71LnQJf2MkL._SL1482_.jpg" alt="Ingwer Tee Kräutertee vom-Achterhof">
+    <a title="Kandierter Ingwer" href="https://amzn.to/2Ap1L5m" target="_blank">
+      <img id="werbeimg" src="/wp-content/uploads/2018/07/amazon-eingelegter-ingwer-gari.png" alt="Ingwer Tee Kräutertee vom-Achterhof">
     </a>
   </div>
   <div id="werbehl">
@@ -11,7 +13,7 @@
     Kandierter Ingwer als gesunder Snack oder Muntermacher - original aus Japan!
   </div>
   <div id="werbebutton">
-    <a title="Kandierter Ingwer" target="_blank" href="https://www.amazon.de/Endo-Ingwer-eingelegt-Pack-Packung/dp/B004L5BQ12/ref=sr_1_5?s=grocery&ie=UTF8&qid=1532674649&sr=1-5&keywords=eingelegter+Ingwer">&#10132;Zum Produkt bei Amazon</a>
+    <a title="Kandierter Ingwer" target="_blank" href="https://amzn.to/2Ap1L5m">&#10132;Zum Produkt bei Amazon</a>
   </div>
   <div id="werbeanzeige">
     Anzeige
