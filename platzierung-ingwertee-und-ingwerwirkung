@@ -14,12 +14,11 @@
   </div>
 </div>
 
-/* ===== ENDE ===== */
 
 <div id="werbebanner">
   <div id="werbeimgbg">
-    <a title="Ingwer Tee Kräutertee vom Achterhof" href="https://www.amazon.de/Ingwerwurzel-Bio-Ingwer-geschnitten-vom-Achterhof/dp/B0757WC3TY/ref=sr_1_5?ie=UTF8&qid=1532506744&sr=8-5&keywords=ingwertee" target="_blank">
-      <img id="werbeimg" src="https://images-na.ssl-images-amazon.com/images/I/71LnQJf2MkL._SL1482_.jpg" alt="Ingwer Tee Kräutertee vom-Achterhof">
+    <a title="Bio-Ingwer-wurzel" href="https://amzn.to/2LKgfRF" target="_blank">
+      <img id="werbeimg" src="/wp-content/uploads/2018/07/amazon-bio-ingwer-wurzel-achterhof.png" alt="Bio-Ingwer-wurzel">
     </a>
   </div>
   <div id="werbehl">
@@ -29,9 +28,11 @@
     Wenn du schon fertigen Tee möchtest, kannst du auf Bio-Ingwer-wurzel von Achterhof zurückgreifen!
   </div>
   <div id="werbebutton">
-    <a title="Ingwer Tee Kräutertee vom Achterhof" target="_blank" href="https://www.amazon.de/Ingwerwurzel-Bio-Ingwer-geschnitten-vom-Achterhof/dp/B0757WC3TY/ref=sr_1_5?ie=UTF8&qid=1532506744&sr=8-5&keywords=ingwertee">&#10132;Zum Produkt bei Amazon</a>
+    <a title="Bio-Ingwer-wurzel" target="_blank" href="https://amzn.to/2LKgfRF">&#10132;Zum Produkt bei Amazon</a>
   </div>
   <div id="werbeanzeige">
     Anzeige
   </div>
 </div>
+
+/* ===== ENDE ===== */
