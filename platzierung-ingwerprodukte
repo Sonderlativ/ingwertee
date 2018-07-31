@@ -14,13 +14,11 @@
   </div>
 </div>
 
-/* ===== ENDE ===== */
-
 
 <div id="werbebanner">
   <div id="werbeimgbg">
-    <a title="Ingwer Tee Kräutertee vom-Achterhof" href="http://amzn.to/2yg5Giu" target="_blank">
-      <img id="werbeimg" src="https://images-na.ssl-images-amazon.com/images/I/71LnQJf2MkL._SL1482_.jpg" alt="Ingwer Tee Kräutertee vom-Achterhof">
+    <a title="Ingwer-Bonbons" href="https://amzn.to/2KcPNvq" target="_blank">
+      <img id="werbeimg" src="/wp-content/uploads/2018/07/amazon-gingerbon.png" alt="Ingwer-Bonbons">
     </a>
   </div>
   <div id="werbehl">
@@ -30,9 +28,11 @@
     Ingwer-Bonbons sind praktisch und unterstützen auf Reisen!
   </div>
   <div id="werbebutton">
-    <a title="Ingwer Tee Kräutertee vom-Achterhof" target="_blank" href="http://amzn.to/2yg5Giu">&#10132;Zum Produkt bei Amazon</a>
+    <a title="Ingwer-Bonbons" target="_blank" href="https://amzn.to/2KcPNvq">&#10132;Zum Produkt bei Amazon</a>
   </div>
   <div id="werbeanzeige">
     Anzeige
   </div>
 </div>
+
+/* ===== ENDE ===== */
