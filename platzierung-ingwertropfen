@@ -1,7 +1,9 @@
+/* === Eingebunden === */
+
 <div id="werbebanner">
   <div id="werbeimgbg">
-    <a title="Praktische Ingwer-Tropfen!" href="https://www.amazon.de/Ingwer-Pure-Tropfen-20-ml/dp/B00NW8W2OO/ref=sr_1_2?ie=UTF8&qid=1532509230&sr=8-2&keywords=Ingwertropfen" target="_blank">
-      <img id="werbeimg" src="https://images-na.ssl-images-amazon.com/images/I/71LnQJf2MkL._SL1482_.jpg" alt="Ingwer Tee Kräutertee vom-Achterhof">
+    <a title="Praktische Ingwer-Tropfen!" href="https://amzn.to/2K7mJVU" target="_blank">
+      <img id="werbeimg" src="/wp-content/uploads/2018/07/amazon-ingwer-pure-tropfen.png" alt="Praktische Ingwer-Tropfen">
     </a>
   </div>
   <div id="werbehl">
@@ -12,7 +14,7 @@
     Angenehm im Geschmack und für Ingwerwasser geeignet!
   </div>
   <div id="werbebutton">
-    <a title="Praktische Ingwer-Tropfen!" target="_blank" href="https://www.amazon.de/Ingwer-Pure-Tropfen-20-ml/dp/B00NW8W2OO/ref=sr_1_2?ie=UTF8&qid=1532509230&sr=8-2&keywords=Ingwertropfen">&#10132;Zum Produkt bei Amazon</a>
+    <a title="Praktische Ingwer-Tropfen!" target="_blank" href="https://amzn.to/2K7mJVU">&#10132;Zum Produkt bei Amazon</a>
   </div>
   <div id="werbeanzeige">
     Anzeige
