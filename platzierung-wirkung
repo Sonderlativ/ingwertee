@@ -14,26 +14,26 @@
   </div>
 </div>
 
-/* ===== ENDE ===== */
-
 
 <div id="werbebanner">
   <div id="werbeimgbg">
-    <a title="Gesund mit Ingwer" href="https://www.amazon.de/Gesund-mit-Ingwer-Nat%C3%BCrlich-Anwendungsm%C3%B6glichkeiten/dp/3442170710/ref=sr_1_1?s=books&ie=UTF8&qid=1532507900&sr=1-1&keywords=Buch+ingwer" target="_blank">
-      <img id="werbeimg" src="https://images-na.ssl-images-amazon.com/images/I/71LnQJf2MkL._SL1482_.jpg" alt="Ingwer Tee Kräutertee vom-Achterhof">
+    <a title="Gesund mit Ingwer" href="https://amzn.to/2Ampmn3" target="_blank">
+      <img id="werbeimg" src="/wp-content/uploads/2018/07/amazon-gesund-mit-ingwer-ellen-heidboehmer.png" alt="Ingwer Tee Kräutertee vom-Achterhof">
     </a>
   </div>
   <div id="werbehl">
     Mein Lesetipp:
   </div>
-  <p class="InSn-Headline">"Gesund mit Ingwer"</p>
   <div id="werbefacts">
+   <p class="InSn-Headline">"Gesund mit Ingwer"</p>
     Hier erfährst du mehr über zahlreiche Anwendungsmöglichkeiten und Wirkweisen von Ingwer!
   </div>
   <div id="werbebutton">
-    <a title="Gesund mit Ingwer" target="_blank" href="https://www.amazon.de/Gesund-mit-Ingwer-Nat%C3%BCrlich-Anwendungsm%C3%B6glichkeiten/dp/3442170710/ref=sr_1_1?s=books&ie=UTF8&qid=1532507900&sr=1-1&keywords=Buch+ingwer">&#10132;Zum Produkt bei Amazon</a>
+    <a title="Gesund mit Ingwer" target="_blank" href="https://amzn.to/2Ampmn3">&#10132;Zum Produkt bei Amazon</a>
   </div>
   <div id="werbeanzeige">
     Anzeige
   </div>
 </div>
+
+/* ===== ENDE ===== */
