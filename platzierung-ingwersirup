@@ -14,13 +14,11 @@
   </div>
 </div>
 
-/* ===== ENDE ===== */
-
 
 <div id="werbebanner">
   <div id="werbeimgbg">
-    <a title="Ingwer-Sirup aus frischem Ingwer" href="https://www.amazon.de/Inge-Ingwersirup-frischem-unbehandelte-handgemacht/dp/B01JUWOEKK/ref=sr_1_3?ie=UTF8&qid=1532509014&sr=8-3&keywords=Ingwersirup" target="_blank">
-      <img id="werbeimg" src="https://images-na.ssl-images-amazon.com/images/I/71LnQJf2MkL._SL1482_.jpg" alt="Ingwer Tee Kräutertee vom-Achterhof">
+    <a title="Ingwer-Sirup aus frischem Ingwer" href="https://amzn.to/2viwTgT" target="_blank">
+      <img id="werbeimg" src="/wp-content/uploads/2018/07/amazon-inge-ingwer-sirup.png" alt="Ingwer Tee Kräutertee vom-Achterhof">
     </a>
   </div>
   <div id="werbehl">
@@ -30,9 +28,11 @@
     Ingwer-Sirup aus frischem Ingwer. Frei von Aromen, Farbstoffen & Geschmacksverstärker!
   </div>
   <div id="werbebutton">
-    <a title="Ingwer-Sirup aus frischem Ingwer" target="_blank" href="https://www.amazon.de/Inge-Ingwersirup-frischem-unbehandelte-handgemacht/dp/B01JUWOEKK/ref=sr_1_3?ie=UTF8&qid=1532509014&sr=8-3&keywords=Ingwersirup">&#10132;Zum Produkt auf Amazon</a>
+    <a title="Ingwer-Sirup aus frischem Ingwer" target="_blank" href="https://amzn.to/2viwTgT">&#10132;Zum Produkt auf Amazon</a>
   </div>
   <div id="werbeanzeige">
     Anzeige
   </div>
 </div>
+
+/* ===== ENDE ===== */
