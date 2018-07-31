@@ -14,12 +14,11 @@
   </div>
 </div>
 
-/* ===== ENDE ===== */
 
 <div id="werbebanner">
   <div id="werbeimgbg">
-    <a title="Ingwerpulver" href="https://www.amazon.de/Wohltuer-Bio-Ingwerpulver-Ingwerwurzel-Ingwerwasser/dp/B071RVBW42/ref=sr_1_9?ie=UTF8&qid=1532506744&sr=8-9&keywords=ingwertee" target="_blank">
-      <img id="werbeimg" src="https://images-na.ssl-images-amazon.com/images/I/71LnQJf2MkL._SL1482_.jpg" alt="Ingwer Tee Kräutertee vom-Achterhof">
+    <a title="Ingwerpulver" href="https://amzn.to/2Ap2C64" target="_blank">
+      <img id="werbeimg" src="/wp-content/uploads/2018/07/amazon-wohltuer-bio-ingwer-pulver.png" alt="Ingwer Tee Kräutertee vom-Achterhof">
     </a>
   </div>
   <div id="werbehl">
@@ -29,9 +28,11 @@
     Egal, ob für Ingwertee oder Ingwerwasser – dieses Ingwerpulver stammt aus frischem BIO-Ingwer aus Indien!
   </div>
   <div id="werbebutton">
-    <a title="Ingwerpulver" target="_blank" href="https://www.amazon.de/Wohltuer-Bio-Ingwerpulver-Ingwerwurzel-Ingwerwasser/dp/B071RVBW42/ref=sr_1_9?ie=UTF8&qid=1532506744&sr=8-9&keywords=ingwertee">&#10132;Zum Produkt bei Amazon</a>
+    <a title="Ingwerpulver" target="_blank" href="https://amzn.to/2Ap2C64">&#10132;Zum Produkt bei Amazon</a>
   </div>
   <div id="werbeanzeige">
     Anzeige
   </div>
 </div>
+
+/* ===== ENDE ===== */
