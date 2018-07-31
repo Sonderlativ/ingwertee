@@ -13,3 +13,25 @@
     </div></a>
   </div>
 </div>
+
+
+<div id="werbebanner">
+  <div id="werbeimgbg">
+    <a title="Ingwerreibe" href="https://amzn.to/2AjKYRh" target="_blank">
+      <img id="werbeimg" src="/wp-content/uploads/2018/07/amazon-ingwer-reibe.png" alt="Ingwerreibe">
+    </a>
+  </div>
+  <div id="werbehl">
+    Mein Tipp für die Küche:
+  </div>
+  <div id="werbefacts">
+   <p class="InSn-Headline">"Ingwerreibe"</p>
+    Spülmaschinengeeignet und mit Reinigungsbürste
+  </div>
+  <div id="werbebutton">
+    <a title="Ingwerreibe" target="_blank" href="https://amzn.to/2AjKYRh">&#10132;Zum Produkt bei Amazon</a>
+  </div>
+  <div id="werbeanzeige">
+    Anzeige
+  </div>
+</div>
